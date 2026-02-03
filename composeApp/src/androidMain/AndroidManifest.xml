@@ -10,7 +10,7 @@
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:exported="true"
-            android:name=".lab_1_2.MainActivity">
+            android:name=".lab_3.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
