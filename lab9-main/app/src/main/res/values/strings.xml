@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blur-O-Matic</string>
+    <string name="select_blur_amount">Select Blur Amount</string>
+    <string name="a_little_blurred">A little blurred</string>
+    <string name="more_blurred">More blurred</string>
+    <string name="the_most_blurred">The most blurred</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+</resources>
